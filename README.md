@@ -13,10 +13,10 @@ The Resident Complaint Portal is a JavaFX application designed to streamline the
 
 ### Installation
 1. **Clone the Repository:**
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/AbdullahDaniyal/Resident-Complaint-Portal-in-Java/)
    
 3. **Navigate to the Project Directory:**
-   cd Resident-Complaint-Portal
+   cd Resident-Complaint-Portal-Code
 
 ### How to Use
 1. **Launch the Application:**
@@ -51,4 +51,7 @@ This project is licensed under the [LICENSE-NAME] License - see the LICENSE.md f
 
 ### Acknowledgments
 - Thanks to all contributors who have invested their time in improving this application.
-- Special thanks to [Mentor/Advisor Name], whose guidance was invaluable in the development of this project.
+## Acknowledgments
+- Thanks to all contributors who have invested their time in improving this application.
+- Special thanks to [Usman Baig](https://github.com/GitUsmanBaig) and [Ibraheem](https://github.com/ibraheem15) for their invaluable guidance and contributions to the development of this project.
+
